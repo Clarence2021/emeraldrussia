@@ -1,0 +1,13 @@
+[
+  {
+    "serverid": 1, 
+    "name": "EMERALD RUSSIA BLACK", 
+    "players": "949", 
+    "max_players": "1000", 
+    "bonus": "0", 
+    "mobile_players": "900",
+    "pc_players": "49", 
+    "ip_address": "s1.emeraldrussia.online",
+    "port": "7777"
+  }
+] 
