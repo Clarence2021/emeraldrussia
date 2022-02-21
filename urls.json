@@ -4,7 +4,7 @@
   "URL_NEWS": "http://online-launcher.ru/SAMPNEW/news.json",
   "URL_HELP": "http://online-launcher.ru/SAMPNEW/help.json",
   "URL_CONFIG": "http://online-launcher.ru/SAMPNEW/config/samp_settings.ini",
-  "URL_ONLINE_API": "https://raw.githubusercontent.com/Clarence2021/emeraldrussia/main/online_api.json",
+  "URL_ONLINE_API": "https://raw.githubusercontent.com/Clarence2021/emeraldrussia/main/online_api.php",
   "URL_DONATE_API": "http://gta-mobile.ru/api/donate_api.php",
   "URL_SITE": "https://gta-mobile.ru/",
   "URL_VK": "https://vk.com/emeraldrussia.online",
