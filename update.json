@@ -1,70 +1,13 @@
 {
-  "launcher": {
-    "name": "migration_app.apk",
-    "size": 11759,
-    "versionCode": 30,
-    "versionStr": "Обновление игры",
-    "url": "http://dl.online-launcher.ru/SAMPNEW/download/migration_app.apk"
+  "apk": {
+    "version": 245,
+    "str": "2.4.10",
+    "path": "apk/samp_245_170222_1215.apk", 
+    "url": "http://dl.online-launcher.ru/20201101/files/archive/8/onlinerp_files_8.7z" 
   },
-  "client": {
-    "name": "onlinerp_client_118.apk",
-    "size": 19179,
-    "versionCode": 118,
-    "versionStr": "1.1.2",
-    "url": "http://dl.online-launcher.ru/SAMP/v1/files/client/118/onlinerp_client_118.apk"
-  },
-  "files": {
-    "archive": {
-      "path": "cache/onlinerp_files_12.7z",
-      "size": 2147483648,
-      "url": "http://dl.online-launcher.ru/20201101/files/archive/8/onlinerp_files_8.7z"
-    },
-    "list": [
-      {
-        "name": "Arial Bold.ttf",
-        "size": 344,
-        "path": "data/com.rockstargames.samp/files/SAMP/fonts/Arial Bold.ttf",
-        "check_exists": true,
-        "check_hash": false,
-        "url": "http://dl.online-launcher.ru/20201101/files/list/4/data/com.rockstargames.samp/files/SAMP/fonts/Arial Bold.ttf",
-        "hash": "ce4244a1fb311a47a5949948b2dc4eab"
-      },
-      {
-        "name": "samp.obb",
-        "size": 390490,
-        "path": "data/com.rockstargames.samp/files/SAMP/obb/samp.obb",
-        "check_exists": true,
-        "check_hash": false,
-        "url": "http://dl.online-launcher.ru/20201101/files/list/4/data/com.rockstargames.samp/files/SAMP/obb/samp.obb",
-        "hash": "a89ebf5a939fdde0c8969a92cdeaf090"
-      },
-      {
-        "name": "samp_custom.obb",
-        "size": 88380,
-        "path": "data/com.rockstargames.samp/files/SAMP/obb/samp_custom.obb",
-        "check_exists": true,
-        "check_hash": true,
-        "url": "http://dl.online-launcher.ru/20201101/files/list/4/data/com.rockstargames.samp/files/SAMP/obb/samp_custom.obb",
-        "hash": "80aa41afed5a707b3e08acbb2653df9d"
-      },
-      {
-        "name": "samp_data.obb",
-        "size": 8212,
-        "path": "data/com.rockstargames.samp/files/SAMP/obb/samp_data.obb",
-        "check_exists": true,
-        "check_hash": true,
-        "url": "http://dl.online-launcher.ru/20201101/files/list/4/data/com.rockstargames.samp/files/SAMP/obb/samp_data.obb",
-        "hash": "5f72c3948eb862a2c1a0364585668fab"
-      },
-      {
-        "name": "samp_customtex.obb",
-        "size": 24553,
-        "path": "data/com.rockstargames.samp/files/SAMP/obb/samp_customtex.obb",
-        "check_exists": true,
-        "check_hash": true,
-        "url": "http://dl.online-launcher.ru/20201101/files/list/4/data/com.rockstargames.samp/files/SAMP/obb/samp_customtex.obb",
-        "hash": "42f5204ff07c91161c22c78783ac24aa"
-      }
-    ]
+  "archive": {
+    "path": "cache/onlinerp_files_12.7z",
+    "size": 2147483648, 
+    "url": "http://dl.online-launcher.ru/20201101/files/archive/8/onlinerp_files_8.7z"
   }
-}
+} 
