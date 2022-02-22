@@ -1,16 +1,23 @@
 {
   "apk": {
     "version": 245,
-    "str": "2.4.11",
-    "path": "apk/launcher.apk"
-  } 
+    "str": "2.4.10",
+    "path": "apk/samp_245_170222_1215.apk"
+  },
   "archive": {
-    "path": "chache/filesFull.zip", 
+    "path": "cache/onlinerp_files_12.7z",
     "size": 2147483648
-  } 
-  "files": {
-    "name": "stream.ini", 
-    "path": "files/stream.ini",
-    "size": 0
-  }
+  },
+  "files": [
+    {
+      "name": "scache_small.txt",
+      "path": "files/scache_small.txt",
+      "size": 0
+    },
+    {
+      "name": "scache_small_low.txt",
+      "path": "files/scache_small_low.txt",
+      "size": 0
+    }
+  ] 
 } 
