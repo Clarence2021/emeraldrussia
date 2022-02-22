@@ -1,0 +1,18 @@
+{
+  "apk": {
+    "version": 245,
+    "str": "2.4.10",
+    "path": "apk/launcher.apk"
+  } 
+  "archive": {
+    "path": "chache/filesFull.zip", 
+    "size": 2147483648
+  } 
+  "files": [
+    {
+      "name": "stream.ini", 
+      "path": "files/stream.ini",
+      "size": 0
+    }
+  ]
+} 
