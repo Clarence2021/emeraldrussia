@@ -15,8 +15,8 @@
   },
   "files": {
     "archive": {
-      "name": "onlinerp_files_8.7z",
-      "size": 2220123,
+      "path": "cache/onlinerp_files_12.7z",
+      "size": 2147483648,
       "url": "http://dl.online-launcher.ru/20201101/files/archive/8/onlinerp_files_8.7z"
     },
     "list": [
