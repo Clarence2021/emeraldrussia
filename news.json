@@ -1,16 +1,9 @@
 [
-        {
-		"image_url": "http://online-launcher.ru/SAMPNEW/news/20/news_20.png",
-		"title": "Автодома уже скоро в игре!",
-		"description": "Уже совсем скоро можно будет отправиться в путешествие на своем автодоме! Следите за новостями!! ",
-		"button": "Подробнее в VK",
-		"link": "https://vk.com/online_samp?w=wall-121674472_13035"
-	},
 	{
-		"image_url": "http://online-launcher.ru/SAMPNEW/news/3/news_3.png",
-		"title": "Обновление доступно на всех серверах!",
+		"image_url": "https://vk.com/photo517661097_457241200",
+		"title": "",
 		"description": "Апрельское обновление доступно на всех серверах! Новая работа, агентство недвижимости, система аукционов за бизнес, сервисные центры и прочее.",
-		"button": "Подробнее на YouTube",
+		"button": "Подробнее в ВК",
 		"link": "http://youtu.be/8s6RL2vnlYc"
 	}
 ]
