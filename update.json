@@ -10,8 +10,8 @@
   }, 
   "files": [
   {
-    "name": "test.ini",
-    "path": "files/test.ini",
+    "name": "version.txt",
+    "path": "files/version.txt",
     "size": 0
   } 
  ] 
