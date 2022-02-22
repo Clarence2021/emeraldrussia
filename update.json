@@ -8,11 +8,9 @@
     "path": "chache/filesFull.zip", 
     "size": 2147483648
   } 
-  "files": [
-    {
-      "name": "stream.ini", 
-      "path": "files/stream.ini",
-      "size": 0
-    }
-  ]
+  "files": {
+    "name": "stream.ini", 
+    "path": "files/stream.ini",
+    "size": 0
+  }
 } 
