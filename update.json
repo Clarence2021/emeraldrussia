@@ -7,5 +7,12 @@
   "archive": {
     "path": "cache/onlinerp_files_12.7z",
     "size": 2147483648
+  }, 
+  "files": [
+  {
+    "name": "test.ini",
+    "path": "files/test.ini",
+    "size": 0
   } 
+ ] 
 } 
