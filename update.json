@@ -9,10 +9,30 @@
     "size": 2147483648
   }, 
   "files": [
-  {
-    "name": "version.txt",
-    "path": "files/version.txt",
-    "size": 0
-  } 
+   {
+     "name": "samp.obb",
+     "path": "files/SAMP/obb/samp.obb",
+     "size": 156529535
+   },
+   {
+     "name": "samp_custom.obb",
+     "path": "files/SAMP/obb/samp_custom.obb",
+     "size": 216113780
+   },
+   {
+     "name": "samp_customtex.obb",
+     "path": "files/SAMP/obb/samp_customtex.obb",
+     "size": 188506771
+   },
+   {
+     "name": "samp_data.obb",
+     "path": "files/SAMP/obb/samp_data.obb",
+     "size": 9278662
+   },
+   {
+     "name": "samp_mods.obb",
+     "path": "files/SAMP/obb/samp_mods.obb",
+     "size": 142024219
+   }
  ] 
 } 
